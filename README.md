@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjro" alt="gjro" /></a> </p>
 
-- 🔭 I’m currently working on [Fotoploc](https://fotoploc.com.br/)
+- 🔭 I’m currently working on [Qi Tech](https://www.qitech.com.br/)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Ruby Community**
+- 👯 I’m looking to collaborate on **Python Community**
 
-- 🤝 I’m looking for help with **Ruby on Rails**
+- 🤝 I’m looking for help with **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://gjro.vercel.app/](https://gjro.vercel.app/)
 
